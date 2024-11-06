@@ -1,4 +1,4 @@
-# kustomize-vs-helm
+# ArgoCD  OPENSHIFT kustomize-vs-helm
 This repository show an example of use of Helm and Kustomize and follows the following objectives:
 - Understand how works Kustomize
 - Understand how works Helm
